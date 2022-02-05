@@ -6135,6 +6135,10 @@ section {
   padding: 12px;
 }
 
+a[href="#close"] {
+  display: none;
+}
+
 nav {
   width: 100vw;
   height: 100vh;
@@ -6261,6 +6265,27 @@ header > h1 {
 
 .program-details-btn {
   display: none;
+}
+
+.program-details {
+  flex-direction: row !important;
+}
+.program-details .program-card {
+  flex-direction: column !important;
+  padding: 12px;
+  margin: 2px !important;
+}
+.program-details .program-card h4 {
+  flex: initial !important;
+}
+.program-details .program-card p {
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.program-footer a {
+  background-color: rgba(211, 211, 211, 0) !important;
+  text-decoration: underline !important;
 }
 
 @media screen and (min-width: 992px) {
