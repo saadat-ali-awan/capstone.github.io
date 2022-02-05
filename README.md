@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="./images/mobile.png" alt="Form" />
+  <img src="./images/mobile.PNG" alt="Form" />
 </p>
 
 ## Built With
