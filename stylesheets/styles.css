@@ -6209,6 +6209,10 @@ nav > ul li {
   margin-bottom: 0;
 }
 
+.partners-section .partner-images figure {
+  width: 10%;
+}
+
 header {
   text-align: left;
   font-size: 1.5rem;
