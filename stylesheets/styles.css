@@ -6409,8 +6409,8 @@ header > h1 {
     margin-bottom: 0;
   }
 
-  .partners-section .partner-images figure {
-    width: 10%;
+  .about .top-cover .content {
+    text-align: center;
   }
 
   .history {
@@ -6420,6 +6420,10 @@ header > h1 {
   }
   .history .conference-card {
     padding: 12px;
+  }
+
+  .partners-section .partner-images figure {
+    width: 10%;
   }
 }
 

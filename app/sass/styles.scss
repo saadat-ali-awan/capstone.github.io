@@ -350,10 +350,10 @@ header {
     }
   }
 
-  .partners-section {
-    .partner-images {
-      figure {
-        width: 10%;
+  .about {
+    .top-cover {
+      .content {
+        text-align: center;
       }
     }
   }
@@ -365,6 +365,14 @@ header {
 
     .conference-card {
       padding: 12px;
+    }
+  }
+
+  .partners-section {
+    .partner-images {
+      figure {
+        width: 10%;
+      }
     }
   }
 }
